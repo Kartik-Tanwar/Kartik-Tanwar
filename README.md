@@ -1,4 +1,4 @@
-# Hi, I'm Kartik 👋
+# Hi, I'm Kartik 
 
 🎓 BTech CSE Student  
 📊 Interested in Data Analysis and Software Development  
