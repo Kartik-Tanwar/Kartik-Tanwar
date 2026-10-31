@@ -6,6 +6,9 @@ Interested in Data Analysis and Software Development
 ## 🔧 Skills
 - Python (Pandas, NumPy, Matplotlib)
 - SQL
+- Databases
+- C (Foundation)
+- C++ (getting started with it)
 - Excel
 - HTML, CSS
 
